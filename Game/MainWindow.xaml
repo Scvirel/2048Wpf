@@ -39,7 +39,7 @@
         <Button  Content="" Style ="{StaticResource RoundButtonTemplate}"   Width="75" Height="73" Margin="5,-88,21,116" Click="Reset_Click">
             <Button.Template>
                 <ControlTemplate>
-                    <Image Source="Assets/repeat.png"/>
+                    <Image Source="Assets/Pictures/repeat.png"/>
                 </ControlTemplate>
             </Button.Template>
         </Button>
